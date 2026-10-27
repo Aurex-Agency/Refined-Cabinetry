@@ -1,6 +1,6 @@
 # Refined Cabinetry — client demonstration
 
-A responsive ad landing page and interactive project application, built for the client presentation. Uses supplied Refined Cabinetry photos, a labeled design rendering, and project video.
+A responsive ad landing page and interactive project application, built for the client presentation. Uses supplied Refined Cabinetry photos, a labeled design rendering, and project video. The hero pairs the original 3D plan with the finished green kitchen, confirmed by the client as the same project; visitors can switch between side-by-side, design, and finished views.
 
 ## Run
 
@@ -10,7 +10,7 @@ A responsive ad landing page and interactive project application, built for the 
 
 ## Demo behavior
 
-All calls to action open a three-step application (project type; location/budget/timeline; sample contact details), then a project recap and illustrative booking/confirmation flow. No form endpoint, CRM, calendar, marketing tracking, uploads, or persistent lead storage is connected. Data exists only in memory and resets on modal close. Calendar slots are examples, not real appointments. Search indexing is disabled in HTML and response headers.
+All calls to action open a visual project studio (image-based space selection; style selection; location/budget/timeline; sample contact details), then a project recap and illustrative booking/confirmation flow. No form endpoint, CRM, calendar, marketing tracking, uploads, or persistent lead storage is connected. Data exists only in memory and resets on modal close. Calendar slots are examples, not real appointments. Search indexing is disabled in HTML and response headers.
 
 ## Before a live campaign
 
@@ -30,4 +30,4 @@ Images compressed to WebP without generative editing. Fonts: DM Sans via Google 
 
 ## Validation
 
-JavaScript syntax and static build checked. Application exercised in browser from project selection through sample booking confirmation, using fictional contact information.
+JavaScript syntax and static build checked. Visual project studio exercised in browser from image choice and style selection through sample booking confirmation, using fictional contact information. Mobile layout visually checked at a 390px embedded viewport.
